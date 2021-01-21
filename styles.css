@@ -15,7 +15,7 @@ p{
 }
 section{
 	position:relative;
-	border: 1pc solid black;
+	border: 1px solid black;
 }
 .food1{
   float:right;
@@ -36,8 +36,7 @@ section{
   font-weight: bold;
   padding: 1px 10px;
   font-size: 1.25em; 
- 
-}
+ }
 .food3{
   float:right;
   background-color: yellow;
@@ -46,13 +45,11 @@ section{
   font-weight: bold;
   padding: 2px 20px;
   font-size: 1.25em;
-  
-}
+  }
 .section1{
   background-color:green;
   width: 100%;
   height: 100%;
-
 }
 .section2{
   background-color:skyblue;
