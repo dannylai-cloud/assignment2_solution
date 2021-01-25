@@ -1,0 +1,27 @@
+.container{
+	width:90%;
+	padding:10px;
+	background:#ddd;
+	margin:100px auto;
+	display:flex;
+	justify-content: center;
+}
+h1{
+	align-content: center;
+}
+.box{
+	width:250px;
+	height:300px;
+	background:orange;
+	margin:0px 10px
+	transform:scale(1.4);
+	text-align: center;
+}
+.box:hover{
+    transform:scale(1.3);
+    background:#ff800a;
+    box-shadow:2px 2px 2px #000;
+    z-index: 2;
+    padding: 4px;
+}
+
